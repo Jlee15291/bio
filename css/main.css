@@ -1,1 +1,8 @@
-kl
+body {
+	background: linear-gradient(red, black);
+	min-height: 150%;
+}
+p {
+	font-color: #111;
+	 }
+
